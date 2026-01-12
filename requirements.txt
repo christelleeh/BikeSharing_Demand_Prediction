@@ -1,0 +1,33 @@
+
+
+# Core
+pandas
+numpy
+datetime
+python-dateutil
+pendulum
+pathlib
+os-sys
+
+# Streamlit app
+streamlit
+streamlit-components
+
+# Visualization
+plotly
+matplotlib
+seaborn
+
+# Machine Learning & Feature Engineering
+scikit-learn
+xgboost
+antropy
+statsmodels
+scikit-optimize
+shap
+joblib
+tqdm
+
+# Utilities
+requests
+python-dotenv
