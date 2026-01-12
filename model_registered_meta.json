@@ -1,0 +1,8 @@
+{
+  "model": "RandomForestRegressor",
+  "target": "registered",
+  "trained_on": "2025-11-22",
+  "train_R2": 0.9716199362859402,
+  "val_R2": 0.9285814792396131,
+  "test_R2": 0.9518179576244041
+}

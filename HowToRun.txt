@@ -1,0 +1,10 @@
+On Windows:
+
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+.\setup.ps1
+
+
+On macOS/Linux:
+chmod +x setup.sh
+./setup.sh
